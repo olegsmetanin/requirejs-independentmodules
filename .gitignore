@@ -1,0 +1,10 @@
+modules/common.rel
+modules/newmodule.rel
+
+
+node_modules
+.npm-debug.log
+
+.DS_Store
+._.DS_Store
+._*
