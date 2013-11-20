@@ -1,6 +1,7 @@
 modules/common.rel
 modules/newmodule.rel
 
+.idea
 
 node_modules
 .npm-debug.log
